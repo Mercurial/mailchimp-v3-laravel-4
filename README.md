@@ -17,7 +17,7 @@ Add the following to your composer.json
 ```json
 {
     "require": {
-        "asanzred/mailchimpv3": "dev-master"
+        "mercurial/mailchimpv3": "dev-master"
     }
 }
 ```
