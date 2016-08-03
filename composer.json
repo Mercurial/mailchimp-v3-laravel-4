@@ -1,6 +1,6 @@
 {
     
-    "name": "asanzred/mailchimpv3",
+    "name": "mercurial/mailchimpv3",
     "description": "Mailchimp API V3 API Wrapper for Laravel 4",
     "type": "library",
     "keywords": [
@@ -15,11 +15,15 @@
         {
             "name": "Alberto Sanz Redondo",
             "email": "asanzred@gmail.com"
-        }
+        },
+	{
+	    "name": "Clark Alesna",
+	    "email": "clark_alesna@hotmail.com"
+	}
     ],
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "~5.0",
         "illuminate/support": "4.2.*"
     },
     "autoload": {
